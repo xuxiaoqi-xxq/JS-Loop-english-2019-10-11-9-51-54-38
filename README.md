@@ -8,7 +8,7 @@ This exercise consists of several small exercises, each with its own readme, whi
 - Submit the job to github and submit the github address back to the system
 
 multiplication_table result
-![image](img/multi_reuslt.jpeg)
+![image](./img/multi_reuslt.jpeg)
 
 number result
-![image](img/number_reuslt.jpeg)
+![image](./img/number_reuslt.jpeg)
